@@ -1,5 +1,5 @@
 # Double-Pendulum
-Simulating a double pendulum to see the chaos and also as a summer break project.
+Simulating a double pendulum to see the chaos. (summer break proj#1)
 
 #To run it:
 first, install the packages:
